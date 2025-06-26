@@ -19,7 +19,7 @@ This is a simple **Bank Management System** built in Python using file-based sto
 
 
  
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Standard Libraries:
 
@@ -29,14 +29,14 @@ random and string – for generating account numbers
 
 pathlib – for checking file existence
 
-🧑‍💻 How to Run
+**🧑‍💻 How to Run**
 Make sure Python 3 is installed.
 
 Save the code as main.py.
 
 Create a data.json file in the same directory (you can use an empty list []).
 
-Run the script:
+**Run the script:**
 python main.py
 Choose an option from the menu:
 
@@ -48,7 +48,7 @@ Press 5 for updating details
 Press 6 for deleting your account
 ![image](https://github.com/user-attachments/assets/09343b9c-846c-44e3-94ac-2e16e19128a5)
 
-✅ Validations & Constraints
+**✅ Validations & Constraints**
 PIN must be 4 digits
 
 Users must be at least 18 years old to open an account
@@ -59,12 +59,12 @@ Withdrawals are only allowed if sufficient balance is available
 
 All sensitive actions require account number and PIN
 
-🔐 Security Notes
+**🔐 Security Notes**
 PIN input is currently not hidden (consider using getpass module for masking in future versions)
 
 No encryption is used — this app is designed for learning purposes only
 
-📈 Future Improvements
+**📈 Future Improvements**
 GUI using Tkinter or PyQt
 
 Password masking using getpass
@@ -75,11 +75,11 @@ Login/logout system
 
 Error logging
 
-🧑‍🎓 Author
+**🧑‍🎓 Author**
 Made by [Ishwaree Patil]
 For educational purposes — beginner-friendly project to understand file handling and basic OOP in Python.
 
-📝 License
+**📝 License**
 This project is open-source and free to use. Attribution appreciated.
 
 
