@@ -30,6 +30,7 @@ random and string – for generating account numbers
 pathlib – for checking file existence
 
 **🧑‍💻 How to Run**
+
 Make sure Python 3 is installed.
 
 Save the code as main.py.
@@ -49,31 +50,33 @@ Press 6 for deleting your account
 ![image](https://github.com/user-attachments/assets/09343b9c-846c-44e3-94ac-2e16e19128a5)
 
 **✅ Validations & Constraints**
-PIN must be 4 digits
+1)PIN must be 4 digits
 
-Users must be at least 18 years old to open an account
+2)Users must be at least 18 years old to open an account
 
-Deposits must not exceed ₹10,000 at a time
+3)Deposits must not exceed ₹10,000 at a time
 
-Withdrawals are only allowed if sufficient balance is available
+4)Withdrawals are only allowed if sufficient balance is available
 
-All sensitive actions require account number and PIN
+5)All sensitive actions require account number and PIN
 
 **🔐 Security Notes**
-PIN input is currently not hidden (consider using getpass module for masking in future versions)
 
-No encryption is used — this app is designed for learning purposes only
+
+1)PIN input is currently not hidden (consider using getpass module for masking in future versions)
+
+2)No encryption is used — this app is designed for learning purposes only
 
 **📈 Future Improvements**
-GUI using Tkinter or PyQt
+1)GUI using Tkinter or PyQt
 
-Password masking using getpass
+2)Password masking using getpass
 
-Transaction history tracking
+3)Transaction history tracking
 
-Login/logout system
+3)Login/logout system
 
-Error logging
+4)Error logging
 
 **🧑‍🎓 Author**
 Made by [Ishwaree Patil]
