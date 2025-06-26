@@ -17,29 +17,8 @@ This is a simple **Bank Management System** built in Python using file-based sto
 
 ---
 
-## 📁 Data Format (`data.json`)
 
-```json
-[
-  {
-    "name": "Isha",
-    "email": "isha203@gamil.com",
-    "pin": 2003,
-    "age": 23,
-    "accountNo": "@3k89EJ",
-    "balance": 0
-  },
-  {
-    "name": "Shubham",
-    "age": 21,
-    "email": "shubham21@gmail.com",
-    "pin": "3124",
-    "accountNo": "8%W7tw4",
-    "balance": 500
-  }
-]
-
-
+ 
 🛠️ Tech Stack
 
 Standard Libraries:
