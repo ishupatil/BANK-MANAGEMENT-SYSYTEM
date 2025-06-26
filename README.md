@@ -38,8 +38,9 @@ This is a simple **Bank Management System** built in Python using file-based sto
     "balance": 500
   }
 ]
+
+
 🛠️ Tech Stack
-Python 3.x
 
 Standard Libraries:
 
